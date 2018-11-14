@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GWFirstTestDemo_Example' do
+  pod 'GWFirstTestDemo', :path => '../'
+
+  target 'GWFirstTestDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
