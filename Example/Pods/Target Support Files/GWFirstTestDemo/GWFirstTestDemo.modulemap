@@ -1,0 +1,6 @@
+framework module GWFirstTestDemo {
+  umbrella header "GWFirstTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - GWFirstTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - GWFirstTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  GWFirstTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GWFirstTestDemo: 2fb649b192ce59252e145596cc9d31483d540604
+
+PODFILE CHECKSUM: 980dd440234343a1e71a576505a33403bc2b6959
+
+COCOAPODS: 1.5.2

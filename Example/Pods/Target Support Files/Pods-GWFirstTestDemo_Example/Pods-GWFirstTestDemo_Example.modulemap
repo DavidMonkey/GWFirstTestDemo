@@ -1,0 +1,6 @@
+framework module Pods_GWFirstTestDemo_Example {
+  umbrella header "Pods-GWFirstTestDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
