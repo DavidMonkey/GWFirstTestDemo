@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GWFirstTestDemo'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'GWFirstTestDemo'
 
 # This description is used to generate tags and improve search results.
