@@ -29,7 +29,7 @@
 
 /* Begin PBXFileReference section */
 		1AC97014C9CD24256E70A05A /* Pods-GWFirstTestDemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GWFirstTestDemo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-GWFirstTestDemo_Example/Pods-GWFirstTestDemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		1FA41353A82A359601269113 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		1FA41353A82A359601269113 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		34847DF6CEF051B974C6317B /* Pods-GWFirstTestDemo_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GWFirstTestDemo_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GWFirstTestDemo_Tests/Pods-GWFirstTestDemo_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* GWFirstTestDemo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GWFirstTestDemo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		A5E004E5C640599055744BC3 /* Pods_GWFirstTestDemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GWFirstTestDemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7BF27D5EAD2190867030C10 /* Pods_GWFirstTestDemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_GWFirstTestDemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC7CCB4EF7C4258B37C40A34 /* Pods-GWFirstTestDemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GWFirstTestDemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-GWFirstTestDemo_Tests/Pods-GWFirstTestDemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		ED6CBABCA602524DD80BB2B8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		FA83D340BA2132955893BDC9 /* GWFirstTestDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = GWFirstTestDemo.podspec; path = ../GWFirstTestDemo.podspec; sourceTree = "<group>"; };
+		ED6CBABCA602524DD80BB2B8 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FA83D340BA2132955893BDC9 /* GWFirstTestDemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = GWFirstTestDemo.podspec; path = ../GWFirstTestDemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
