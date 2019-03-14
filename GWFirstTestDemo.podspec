@@ -12,7 +12,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GWFirstTestDemo'
-  s.version          = '1.0.0'
+  s.version          = '1.0.3'
   s.summary          = 'GWFirstTestDemo'
 
 # This description is used to generate tags and improve search results.
@@ -21,13 +21,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = ‘GWFirstTestDemo’
+  s.description      = 'GWFirstTestDemo'
 
-  s.homepage         = 'https://github.com/qingniufly/GWFirstTestDemo'
+  s.homepage         = 'https://github.com/DavidMonkey/GWFirstTestDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DavidMonkey' => '1129869932@qq.com' }
-  s.source           = { :git => 'https://github.com/qingniufly/GWFirstTestDemo.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/DavidMonkey/GWFirstTestDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
