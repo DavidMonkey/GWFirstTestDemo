@@ -8,9 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GWFirstTestDemo'
-  s.version          = '1.0.3'
+  s.version          = '1.0.4'
   s.summary          = 'GWFirstTestDemo'
-
+  
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
 #   * Try to keep it short, snappy and to the point.
@@ -37,4 +37,5 @@ Pod::Spec.new do |s|
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+   
 end

@@ -1,19 +1,19 @@
 {
   "name": "GWFirstTestDemo",
-  "version": "0.1.0",
-  "summary": "A short description of GWFirstTestDemo.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/qingniufly/GWFirstTestDemo",
+  "version": "1.0.3",
+  "summary": "GWFirstTestDemo",
+  "description": "GWFirstTestDemo",
+  "homepage": "https://github.com/DavidMonkey/GWFirstTestDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "qingniufly": "1129869932@qq.com"
+    "DavidMonkey": "1129869932@qq.com"
   },
   "source": {
-    "git": "https://github.com/qingniufly/GWFirstTestDemo.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/DavidMonkey/GWFirstTestDemo.git",
+    "tag": "1.0.3"
   },
   "platforms": {
     "ios": "8.0"
